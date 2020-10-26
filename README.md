@@ -1,5 +1,5 @@
 # ETEK_RANGE
-Terabee Teraranger Evo (60m) implemented by Luuke Collier for EmergenTek.
+Terabee Teraranger Evo (60m) implemented by Luke Collier for EmergenTek.
 
 Code adapted to Python 3 from Terabee's code. Other debugging checks have been implemented. 
 
